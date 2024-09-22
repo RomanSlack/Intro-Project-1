@@ -4,6 +4,7 @@ This project integrates a simple chatbot using the LLaMA 3 model with Silero TTS
 
 Prerequisites:
 1. Download and install the Windows version of Ollama: https://ollama.com/
+1.2 Download llam3 via Ollama (in cmd - Ollama pull llama3)
 2. Ensure Python (preferably version 3.8 or higher) is installed.
 3. Install the required packages (listed below).
 
